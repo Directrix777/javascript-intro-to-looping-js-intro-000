@@ -5,7 +5,7 @@ function forLoop(array)
     array.push(`I am ${i} strange loop${i === 0 ? '' : 's'}.`)
   }
 }
-
+/*
 function whileLoop(n)
 {
   while(n >= 0)
@@ -29,3 +29,4 @@ function doWhileLoop(num)
     console.log("I run once regardless.")
   } while (incrementVariable(i) < num );
 }
+*/
